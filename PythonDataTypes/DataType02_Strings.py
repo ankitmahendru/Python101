@@ -92,4 +92,4 @@ print(f"Hello , {name}")
 
 age = 60
 
-print(f"Name = {name} ,  Age = {age}" )
+print(f"Name = {name} ,  Age = {age}")
