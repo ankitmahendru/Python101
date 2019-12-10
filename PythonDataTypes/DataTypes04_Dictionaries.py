@@ -34,3 +34,11 @@ print(dict)
 dict['k5'] =  900
 
 print(dict)
+
+#
+# Some functions on Dictionaries
+#
+
+print(dict.keys())
+
+print(dict.values())
