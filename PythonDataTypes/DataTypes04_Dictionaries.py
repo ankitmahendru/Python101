@@ -21,3 +21,16 @@ print(letter)
 # OR
 
 print(dict['k3'][2])
+
+
+# Adding new Key Value
+
+dict['k5'] = 9009
+
+print(dict)
+
+# Replacing Key Value
+
+dict['k5'] =  900
+
+print(dict)
