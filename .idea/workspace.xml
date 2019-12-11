@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d764d31a-61f1-4298-8533-4570b52311f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonDataTypes/DataTypes04_Tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDataTypes/DataType06_Sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonDataTypes/DataType06_Sets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.DataTypes04_Tuples">
+  <component name="RunManager" selected="Python.DataType06_Sets">
     <configuration name="DataType02_Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python001" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DataTypes01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DataType06_Sets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python001" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonDataTypes/DataTypes01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonDataTypes/DataType06_Sets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonDataTypes/DataTypes04_Tuples.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Ankit Mahendru\PycharmProjects\Python001\PythonDataTypes\DataTypes05_Tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DataType06_Sets" />
         <item itemvalue="Python.DataTypes04_Tuples" />
         <item itemvalue="Python.DataTypes04_Dictionaries" />
         <item itemvalue="Python.DataType03_Lists" />
         <item itemvalue="Python.DataType02_Strings" />
-        <item itemvalue="Python.DataTypes01" />
       </list>
     </recent_temporary>
   </component>
@@ -173,22 +173,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1256" height="208" key="GridCell.Tab.0.bottom" timestamp="1576064204245">
+    <state width="1256" height="208" key="GridCell.Tab.0.bottom" timestamp="1576064584907">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1576064204245" />
-    <state width="1256" height="208" key="GridCell.Tab.0.center" timestamp="1576064204245">
+    <state width="1256" height="208" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1576064584907" />
+    <state width="1256" height="208" key="GridCell.Tab.0.center" timestamp="1576064584907">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1576064204245" />
-    <state width="1256" height="208" key="GridCell.Tab.0.left" timestamp="1576064204245">
+    <state width="1256" height="208" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1576064584907" />
+    <state width="1256" height="208" key="GridCell.Tab.0.left" timestamp="1576064584907">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1576064204245" />
-    <state width="1256" height="208" key="GridCell.Tab.0.right" timestamp="1576064204245">
+    <state width="1256" height="208" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1576064584907" />
+    <state width="1256" height="208" key="GridCell.Tab.0.right" timestamp="1576064584907">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1576064204245" />
+    <state width="1256" height="208" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1576064584907" />
     <state x="981" y="523" key="com.intellij.ide.util.TipDialog" timestamp="1576063917016">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
