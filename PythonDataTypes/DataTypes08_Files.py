@@ -14,4 +14,20 @@ print(myfile.read())
 
 myfile.seek(0)
 
-contents = myfile.read()
+contents = myfile.readline()
+
+print(contents)
+
+myfile.close()
+
+with open('test.txt', mode= 'r' ) as fa :
+        print(fa.read())
+
+with open('test.txt', mode='a') as fb:
+        fb.write('\n This is the Forth Line')
+
+with open('test2.txt', mode='w') as fc:
+    fc.write('New File Created')
+with open('test2.txt') as fd :
+    print(fd.read())
+
