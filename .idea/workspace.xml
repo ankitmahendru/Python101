@@ -31,28 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.DataType06_Sets">
-    <configuration name="DataType02_Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python001" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonDataTypes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonDataTypes/DataType02_Strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.DataTypes07_Booleans">
     <configuration name="DataType03_Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python001" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,13 +116,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="DataTypes07_Booleans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python001" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonDataTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonDataTypes/DataTypes07_Booleans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DataTypes07_Booleans" />
         <item itemvalue="Python.DataType06_Sets" />
         <item itemvalue="Python.DataTypes04_Tuples" />
         <item itemvalue="Python.DataTypes04_Dictionaries" />
         <item itemvalue="Python.DataType03_Lists" />
-        <item itemvalue="Python.DataType02_Strings" />
       </list>
     </recent_temporary>
   </component>
@@ -173,25 +173,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1256" height="208" key="GridCell.Tab.0.bottom" timestamp="1576064584907">
+    <state width="1256" height="208" key="GridCell.Tab.0.bottom" timestamp="1576064779380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1576064584907" />
-    <state width="1256" height="208" key="GridCell.Tab.0.center" timestamp="1576064584907">
+    <state width="1256" height="208" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1576064779380" />
+    <state width="1256" height="208" key="GridCell.Tab.0.center" timestamp="1576064779380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1576064584907" />
-    <state width="1256" height="208" key="GridCell.Tab.0.left" timestamp="1576064584907">
+    <state width="1256" height="208" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1576064779380" />
+    <state width="1256" height="208" key="GridCell.Tab.0.left" timestamp="1576064779380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1576064584907" />
-    <state width="1256" height="208" key="GridCell.Tab.0.right" timestamp="1576064584907">
+    <state width="1256" height="208" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1576064779380" />
+    <state width="1256" height="208" key="GridCell.Tab.0.right" timestamp="1576064779380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1576064584907" />
+    <state width="1256" height="208" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1576064779380" />
     <state x="981" y="523" key="com.intellij.ide.util.TipDialog" timestamp="1576063917016">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="981" y="523" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576063917016" />
+    <state x="293" y="382" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576064745144">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="293" y="382" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1576064745144" />
   </component>
 </project>
